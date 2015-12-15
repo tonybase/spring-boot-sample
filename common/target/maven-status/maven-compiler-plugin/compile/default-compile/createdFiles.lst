@@ -1,0 +1,6 @@
+io\tonyc\web\common\bean\ResponseMessage$1.class
+io\tonyc\web\common\entity\AbstractAuditingEntity.class
+io\tonyc\web\common\bean\ResponseMessage.class
+io\tonyc\web\common\entity\AbstractIdentifiableEntity.class
+io\tonyc\web\common\bean\ResponseMessage$Error.class
+io\tonyc\web\common\bean\Constants.class
