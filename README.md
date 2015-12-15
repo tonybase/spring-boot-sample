@@ -2,4 +2,4 @@
 
     mvn install
     cd web
-    mvn jetty:run
+    mvn spring-boot:run
